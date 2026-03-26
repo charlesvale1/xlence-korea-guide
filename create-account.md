@@ -6,9 +6,11 @@
 ✅ **사전 조건**: 가입 및 KYC 인증이 완료된 상태여야 합니다.
 {% endhint %}
 
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_account_1.png)
 ## Step 1 — 메뉴 → Accounts 클릭
 로그인 후 상단 메뉴탭 클릭 → **Accounts** 선택
 
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_account_2.png)
 ## Step 2 — ADD ACCOUNT 클릭
 **Trading Accounts** 섹션에서 **ADD ACCOUNT** 클릭
 
@@ -16,9 +18,12 @@
 ⚠️ Demo Accounts 하단의 ADD ACCOUNT는 클릭하지 마세요.
 {% endhint %}
 
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_account_3.png)
 ## Step 3 — Live Trading Account 선택
 **Live Trading Account** 선택 후 **NEXT** 클릭
 
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_account_4.png)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_account_5.png)
 ## Step 4 — 계좌 설정 입력
 
 | 항목 | 설정값 |
@@ -31,6 +36,8 @@
 
 비밀번호 규칙: 영문 대소문자 + 숫자 + 특수기호 · **12~15자리**
 설정 완료 후 **SUBMIT** 클릭
+
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_account_6.png)
 
 {% hint style="info" %}
 💬 문의: 텔레그램 [@kr_helpdesk](https://t.me/kr_helpdesk)
