@@ -13,7 +13,7 @@
 
 앱스토어 또는 구글플레이에서 **MetaTrader 4** 검색 후 설치
 
-![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_1.jpg)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_1.png)
 
 | 항목 | 내용 |
 |------|------|
@@ -31,7 +31,7 @@
 
 앱 설치 후 실행 → **'계좌로 로그인'** 클릭 → **'트레이딩 서버 선택'** 화면에서:
 
-![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_2-2.jpg)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_2.png)
 
 브로커 검색창에 **`Xlence`** 입력 후 검색
 
@@ -45,7 +45,7 @@
 
 검색 결과에서 **`Xlence-Real6`** (Tradeco Ltd.) 선택
 
-![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_4-4.jpg)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_4.png)
 
 | 항목 | 입력 내용 |
 |------|---------|
@@ -63,6 +63,8 @@
 
 ## Step 4 — 로그인 완료 및 기본 화면 안내
 
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_5.png)
+
 로그인 성공 후 MT4 메인 화면이 표시됩니다.
 
 | 메뉴 | 기능 |
@@ -76,6 +78,8 @@
 ---
 
 ## Step 5 — 매수/매도 주문하기
+
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_6.png)
 
 **'시세'** 탭에서 거래할 통화쌍 선택 → 길게 누르기 → **'새 주문'** 클릭
 
@@ -96,6 +100,12 @@
 
 ## Step 6 — 포지션 확인 및 청산
 
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_7.png)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_8.png)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_9.png)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_10.png)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_11.png)
+
 **'트레이드'** 탭에서 현재 보유 포지션 확인 가능
 
 - **청산 방법**: 포지션 길게 누르기 → **'포지션 청산'** 선택
@@ -106,7 +116,7 @@
 {% hint style="success" %}
 🎉 MT4 설정이 완료되었습니다! 이제 거래를 시작할 수 있습니다.
 
-처음이라면 **데모 계좌**로 먼저 연습해보세요.
+
 {% endhint %}
 
 {% hint style="info" %}
