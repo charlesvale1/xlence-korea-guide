@@ -38,7 +38,7 @@
 ---
 
 ## Step 3 — 이메일 및 모바일 인증
-![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_kyc_4.png)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_kyc_44.png)
 ![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_kyc_6.png)
 로그인 후 우측 상단 **≡ 메뉴** 클릭 → **Profile → Account** 클릭
 
@@ -52,7 +52,6 @@
 ---
 
 ## Step 4 — 신원 정보 입력
-![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_kyc_4.png)
 ![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_kyc_8.png)
 **≡ 메뉴** → **Profile → Profile Information** 클릭
 
