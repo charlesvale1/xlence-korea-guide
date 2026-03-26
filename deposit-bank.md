@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/images/generated-image-2.png)
+
 # 국내은행 입금 가이드
 
 ## Step 1–2 — 입금하기 → 온라인 뱅킹 송금 선택
