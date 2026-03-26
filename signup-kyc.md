@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_hero.png)
+
 # 가입 방법 및 KYC 본인인증
 
 {% hint style="info" %}
