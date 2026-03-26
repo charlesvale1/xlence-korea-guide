@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/images/generated-image-2.png)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_deposit_bank.png)
 
 # 국내은행 입금 가이드
 
