@@ -6,22 +6,22 @@
 1. 대시보드 → **'입금하기'** 클릭
 2. **'온라인 뱅킹 송금'** 선택
 
-![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_deposit_2.jpg)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/Xlence_deposit_2.jpg)
 ## Step 3 — 금액 입력
 - 통화: **KRW** · 입금 금액 입력 후 **'전송'** 클릭
 
-![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_deposit_3.jpg)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/Xlence_deposit_3.jpg)
 ## Step 4 — 이용약관 동의
 체크박스 선택 후 **'다음'** 클릭
 
-![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_deposit_4.jpg)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/Xlence_deposit_4.jpg)
 ## Step 5 — 가상계좌 입금
 {% hint style="danger" %}
 ⏱️ 화면에 표시된 가상계좌로 **30분 이내** 입금 완료 필수
 {% endhint %}
 
-![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_deposit_5.jpg)
-![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_deposit_6.jpg)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/Xlence_deposit_5.jpg)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/Xlence_deposit_6.jpg)
 ## Step 6–7 — 입금 확인
 | 상태 | 의미 |
 |------|------|
