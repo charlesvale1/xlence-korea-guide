@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_hero.png)
 
 # 가입 방법 및 KYC 본인인증 방법
-
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_kyc_1.png)
 {% hint style="info" %}
 📌 아래 절차를 순서대로 진행해주세요. KYC 인증 완료 후 입출금이 가능합니다.
 {% endhint %}
