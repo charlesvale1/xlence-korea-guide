@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_deposit_crypto.png)
+
 # 암호화폐 입금 가이드
 
 ## Step 1–2 — 입금하기 → 디지털 자산 선택
