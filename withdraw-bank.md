@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_withdraw.png)
+
 # 국내은행 출금 가이드
 
 ## Step 1–2 — 내부이체 → 인출
