@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_hero.png)
+
 # MT4 사용 방법
 
 {% hint style="info" %}
