@@ -80,6 +80,8 @@
 ## Step 5 — 매수/매도 주문하기
 
 ![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_6.png)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_7.png)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_8.png)
 
 **'시세'** 탭에서 거래할 통화쌍 선택 → 길게 누르기 → **'새 주문'** 클릭
 
@@ -100,8 +102,6 @@
 
 ## Step 6 — 포지션 확인 및 청산
 
-![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_7.png)
-![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_8.png)
 ![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_9.png)
 ![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_10.png)
 ![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_mt4_11.png)
