@@ -9,7 +9,7 @@
 ---
 
 ## Step 1 — 회원가입
-
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_kyc_1.png)
 [xlence.com/ko](https://www.xlence.com/ko) 접속 후 **'계좌 개설'** 클릭
 
 가입 양식을 **영문**으로 작성 후 **'계좌 개설'** 버튼 클릭
@@ -27,7 +27,7 @@
 ---
 
 ## Step 2 — 로그인
-
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_kyc_2.png)
 가입 완료 후 로그인 페이지에서:
 
 - **ID**: 가입 시 입력한 이메일 주소
@@ -38,7 +38,7 @@
 ---
 
 ## Step 3 — 이메일 및 모바일 인증
-
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_kyc_3.png)
 로그인 후 우측 상단 **≡ 메뉴** 클릭 → **Profile → Account** 클릭
 
 | 항목 | 방법 |
@@ -51,7 +51,8 @@
 ---
 
 ## Step 4 — 신원 정보 입력
-
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_kyc_4.png)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_kyc_8.png)
 **≡ 메뉴** → **Profile → Profile Information** 클릭
 
 **Personal details** 우측 ✏️ 클릭 후 정보 입력:
@@ -70,7 +71,7 @@
 ---
 
 ## Step 5 — 주소 입력
-
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_kyc_9.png)
 **Address details** 우측 ✏️ 클릭 후 영문 주소 입력:
 
 | 항목 | 예시 |
@@ -89,7 +90,7 @@
 ---
 
 ## Step 6 — Financial Profile 입력
-
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_kyc_10.png)
 **Financial Profile** 우측 ✏️ 클릭 후 아래 예시 참고하여 입력:
 
 **Tax Residency (세금 거주지)**
@@ -117,7 +118,7 @@
 ---
 
 ## Step 7 — Trading Experience 입력
-
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_kyc_11.png)
 **Trading Experience** 섹션에서 거래 경험 입력 (예시 참고):
 
 | 항목 | 예시 입력값 |
@@ -136,7 +137,7 @@
 ---
 
 ## Step 8 — 신분증 업로드 (KYC)
-
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_kyc_12.png)
 **Profile Documents** 섹션 → **Identity Document** 우측 👁️ 아이콘 클릭
 
 - 신분증 종류 선택: **여권 / 주민등록증 / 운전면허증** 중 선택
