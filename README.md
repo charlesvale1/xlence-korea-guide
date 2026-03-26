@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/images/xlence_hero.png)
+
 # Xlence 한국어 이용 가이드
 
 글로벌 외환거래 플랫폼 **Xlence**의 공식 한국어 사용 가이드입니다.
