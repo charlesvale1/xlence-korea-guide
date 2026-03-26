@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/images/xlence_hero.png)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/images/generated-image.png)
 
 # Xlence 한국어 이용 가이드
 
