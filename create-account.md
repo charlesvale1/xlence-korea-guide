@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/images/xlence_account.png)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_account.png)
 
 # 거래 계좌 생성 방법
 
