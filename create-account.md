@@ -9,11 +9,14 @@
 
 ## Step 1 — 메뉴 → Accounts 클릭
 로그인 후 상단 메뉴탭 클릭 → **Accounts** 선택
+
 ![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_account_1.png)
 
 ## Step 2 — ADD ACCOUNT 클릭
 **Trading Accounts** 섹션에서 **ADD ACCOUNT** 클릭
+
 ![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_account_2.png)
+
 {% hint style="danger" %}
 ⚠️ Demo Accounts 하단의 ADD ACCOUNT는 클릭하지 마세요.
 {% endhint %}
@@ -21,11 +24,14 @@
 
 ## Step 3 — Live Trading Account 선택
 **Live Trading Account** 선택 후 **NEXT** 클릭
+
 ![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_account_3.png)
 
 ## Step 4 — 계좌 설정 입력
+
 ![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_account_4.png)
 ![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_account_5.png)
+
 | 항목 | 설정값 |
 |------|:------:|
 | Account type | **MT4 → Xlence Essential** |
