@@ -1,7 +1,6 @@
 ![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_deposit_bank.png)
 
 # 국내은행 입금 가이드
-
 ![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_deposit_1.jpg)
 ## Step 1–2 — 입금하기 → 온라인 뱅킹 송금 선택
 1. 대시보드 → **'입금하기'** 클릭
