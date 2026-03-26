@@ -40,6 +40,7 @@
 ## Step 3 — 이메일 및 모바일 인증
 ![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_kyc_44.png)
 ![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_kyc_6.png)
+
 로그인 후 우측 상단 **≡ 메뉴** 클릭 → **Profile → Account** 클릭
 
 | 항목 | 방법 |
