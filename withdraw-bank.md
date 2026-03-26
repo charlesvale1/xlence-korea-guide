@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/Xlence_withdraw.png)
+![](https://raw.githubusercontent.com/charlesvale1/xlence-korea-guide/main/image/xlence_withdraw.png)
 
 # 국내은행 출금 가이드
 
