@@ -12,10 +12,8 @@
 |:---:|--------|:---:|
 | 1 | [📝 가입 방법 및 KYC 인증](signup-kyc.md) | 약 10분 |
 | 2 | [💼 거래 계좌 생성](create-account.md) | 약 3분 |
-| 3 | [🏦 국내은행 입금](deposit-bank.md) | 약 5분 |
-| 4 | [🪙 암호화폐 입금 (USDT)](deposit-crypto.md) | 약 10분 |
-| 5 | [💸 국내은행 출금](withdraw-bank.md) | 약 5분 |
-| 6 | [📊 MT4 사용 방법](mt4-guide.md) | 약 15분 |
+| 3 | [🪙 암호화폐 입금 (USDT)](deposit-crypto.md) | 약 10분 |
+| 4 | [📊 MT4 사용 방법](mt4-guide.md) | 약 15분 |
 
 ---
 
